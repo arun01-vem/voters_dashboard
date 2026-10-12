@@ -1,4 +1,5 @@
-Voters Dashboard
+**Voters Dashboard**
+
 A Python-based interactive data visualization dashboard designed to analyze and explore voter demographics, including age distribution, gender breakdowns, and filtered dataset metrics.
 
 📊 Features
